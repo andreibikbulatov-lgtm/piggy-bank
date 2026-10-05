@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Авто",
+    "target_amount": 3000000.0,
+    "current_balance": 800000.0,
+    "category": "Транспорт",
+    "status": "В работе",
+    "due_date": "2027-04-05"
+  }
+]
